@@ -22,3 +22,7 @@ In this codelab, you will create a Dice Roller Android app where users can click
 * How to work with `ImageView`.
 
 ## What I built
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lintonjr/AndroidBasics/master/DiceRoller/imgs/diceroller.png" alt="DiceRoller screen" width="738">
+</p>

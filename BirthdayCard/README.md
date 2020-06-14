@@ -17,4 +17,6 @@ In this codelab, you will build a simple Android app that displays text. You wil
 
 ## What I built
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lintonjr/AndroidBasics/master/BirthdayCard/imgs/birthdaycard.png" alt="Birthdaycard screen" width="738">
+</p>
