@@ -24,5 +24,5 @@ In this codelab, you will create a Dice Roller Android app where users can click
 ## What I built
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lintonjr/AndroidBasics/master/DiceRoller/imgs/diceroller.png" alt="DiceRoller screen" width="400">
+  <img src="https://raw.githubusercontent.com/lintonjr/AndroidBasics/master/DiceRoller/imgs/diceroller.png" alt="DiceRoller screen" width="280">
 </p>
