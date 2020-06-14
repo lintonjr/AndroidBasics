@@ -11,9 +11,9 @@ In this codelab, you will build a simple Android app that displays text. You wil
 
 # What I've learned
 
-What are user interface elements, such as `Views` and `ViewGroups`.
-How to display text in a `TextView` in an app.
-How to set attributes, such as text, font, and margin on a `TextView`.
+* What are user interface elements, such as `Views` and `ViewGroups`.
+* How to display text in a `TextView` in an app.
+* How to set attributes, such as text, font, and margin on a `TextView`.
 
 ## What I built
 
